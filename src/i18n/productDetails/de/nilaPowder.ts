@@ -3,9 +3,9 @@ import type { ProductDetailItem } from '../types';
 export const nilaPowder: ProductDetailItem = {
     slug: 'nila-powder',
     seo: {
-      title: 'Blaues Nila Pulver Großhandel | Natürlicher Teint-Aufheller Sahara Marokko',
+      title: "Blaues Nila-Pulver Großhandel | Marokkanisches Mineral",
       description:
-        'Großhändler für echtes königsblaues Nila-Pulver aus der marokkanischen Sahara. Natürlicher Wirkstoff gegen Pigmentflecken und für einen ebenmäßigen Teint. Bulk & Tiegel ab 50 Stk.',
+        "Natürliches blaues Nila-Pulver aus der marokkanischen Sahara im Großhandel. Klärt den Hautton und mildert Pigmentflecken. Kilos und Tiegel.",
       ogTitle: 'Blaues Nila Pulver Großhandel | Direktimport Marokko',
       ogDescription:
         'Authentisches marokkanisches Sahara-Nila zur natürlichen Hautaufhellung und Verfeinerung. Hochreines Kosmetikpigment im Großhandel.',

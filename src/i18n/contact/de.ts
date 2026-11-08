@@ -2,9 +2,9 @@ import type { ContactDictionary } from './types';
 
 export const deContact: ContactDictionary = {
   seo: {
-    title: 'Direktkontakt & Großhandelsanfrage | Moroccan Organic Products',
+    title: "Kontakt | Großhandelsanfrage & Angebote Marrakech Marokko",
     description:
-      'Kontaktieren Sie unsere Produktionsstätte in Marrakesch für reines Arganöl, Kaktusfeigenkernöl und Private-Label-Kosmetik. Verbindliche Antwort innerhalb von 24 Stunden.',
+      "Kontaktieren Sie unser Team in Marrakesch für Arganöl, Kaktusfeigenkernöl und Private-Label-Angebote. Antwort garantiert binnen 24 Stunden.",
     ogTitle: 'Kontakt | Moroccan Organic Products — Marrakesch, Marokko',
     ogDescription:
       'Direkte Herstelleranfragen für Bio-Kosmetiköle im Großhandel, Lohnabfüllung und internationalen Export ab Marrakesch, Marokko.',

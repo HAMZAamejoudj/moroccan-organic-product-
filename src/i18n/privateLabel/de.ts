@@ -2,9 +2,9 @@ import type { PrivateLabelDictionary } from './types';
 
 export const dePrivateLabel: PrivateLabelDictionary = {
   seo: {
-    title: 'Private Label Kosmetik & Arganöl Marokko | Eigenmarke ab 50 Stück',
+    title: "Private Label Kosmetik Marokko | Eigenmarke ab 50 Stück",
     description:
-      'Starten Sie Ihre eigene Kosmetikmarke mit marokkanischen Naturprodukten: Private Label Arganöl, Kaktusfeigenkernöl, Seren, Savon Noir. Abfüllung & Etikettierung ab 50 Stück.',
+      "Starten Sie Ihre Kosmetikmarke mit marokkanischen Naturprodukten: Private Label Arganöl, Seren und Seifen. Abfüllung & Etikettierung ab 50 Stück.",
     ogTitle: 'Private Label Kosmetik & Arganöl Marokko | Ab 50 Stück',
     ogDescription:
       'Schlüsselfertige Lohnabfüllung für Bio-Kosmetiköle aus Marokko. Individuelles Flaschendesign, EU-Verordnungskonformität und weltweiter Export.',

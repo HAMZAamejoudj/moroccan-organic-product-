@@ -2,9 +2,9 @@ import type { ProductsCatalogDictionary, ArganOilDictionary, PricklyPearDictiona
 
 export const frProductsCatalog: ProductsCatalogDictionary = {
   seo: {
-    title: "Huiles Cosmétiques & Produits de Beauté Marocains en Gros | Argan, Figue de Barbarie & Hammam",
+    title: "Catalogue Huiles & Cosmétiques Bio Marocains en Gros",
     description:
-      "Fournisseur en gros de produits cosmétiques marocains : huile d'argan en vrac, huile de pépins de figue de barbarie, savon noir, rhassoul, nila bleue et marque blanche.",
+      "Fournisseur en gros de produits cosmétiques marocains : huile d'argan, huile de pépins de figue de barbarie, savon noir et rhassoul certifiés.",
     ogTitle: "Huiles Cosmétiques & Produits de Beauté Marocains en Gros",
     ogDescription:
       "Huile d'argan en vrac, huile de pépins de figue de barbarie et rituels traditionnels de hammam marocain pour laboratoires, marques et distributeurs.",

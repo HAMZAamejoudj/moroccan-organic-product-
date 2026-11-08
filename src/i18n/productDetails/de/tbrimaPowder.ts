@@ -3,9 +3,9 @@ import type { ProductDetailItem } from '../types';
 export const tbrimaPowder: ProductDetailItem = {
     slug: 'tbrima-powder',
     seo: {
-      title: 'Marokkanische Tbrima 14-Kräuter Pulver Großhandel | Hammam Brautritual',
+      title: "Marokkanisches Tbrima-Kräuterpulver Großhandel | Hammam",
       description:
-        'Großhändler für traditionelle marokkanische Tbrima mit 14 königlichen Kräutern. Straffende und entgiftende Körpermaske für Hammam und Wellness-Spas. Bulk & Tiegel ab 50 Stk.',
+        "Traditionelle marokkanische Tbrima-Kräutermischung mit 14 Kräutern im Großhandel. Verfeinert das Hautbild für Hammam-Rituale. Bulk-Lieferung.",
       ogTitle: 'Marokkanische Tbrima 14-Kräuter Pulver Großhandel | B2B Spa-Lieferant',
       ogDescription:
         'Traditionelle Kräuterpackung für straffe, reine Haut im marokkanischen Hammam. Rose, Lavendel, Rosmarin und weißes Henna. Direktexport Marokko.',

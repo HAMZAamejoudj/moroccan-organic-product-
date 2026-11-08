@@ -2,9 +2,9 @@ import type { ProductsCatalogDictionary, ArganOilDictionary, PricklyPearDictiona
 
 export const enProductsCatalog: ProductsCatalogDictionary = {
   seo: {
-    title: 'Moroccan Cosmetic Oils & Beauty Products Wholesale | Argan, Prickly Pear & Hammam',
+    title: "Moroccan Cosmetic Oils & Beauty Catalog | Wholesale",
     description:
-      'Wholesale Moroccan beauty products: bulk argan oil, prickly pear seed oil, Moroccan black soap, ghassoul clay, blue nila, tbrima powder and private label serums.',
+      "Catalog of bulk Moroccan organic beauty products: pure argan oil, prickly pear seed oil, Moroccan black soap, ghassoul clay and private label.",
     ogTitle: 'Moroccan Cosmetic Oils & Beauty Products Wholesale',
     ogDescription:
       'Bulk argan oil, prickly pear seed oil and traditional Moroccan hammam products for brands, formulators and distributors.',

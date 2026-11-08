@@ -2,9 +2,9 @@ import type { WholesaleDictionary } from './types';
 
 export const frWholesale: WholesaleDictionary = {
   seo: {
-    title: "Grossiste Produits de Beauté Marocains & Huile d'Argan en Vrac | Fournisseur Maroc",
+    title: "Grossiste Produits de Beauté & Huile d'Argan en Vrac",
     description:
-      "Achetez des huiles et soins marocains authentiques en gros direct du producteur : huile d'argan, pépins de figue de barbarie, savon noir, rhassoul et marque blanche.",
+      "Achetez des huiles et soins marocains bio en gros du producteur : huile d'argan, pépins de figue de barbarie, savon noir et export mondial.",
     ogTitle: "Grossiste Produits de Beauté Marocains & Huile d'Argan en Vrac",
     ogDescription:
       "Approvisionnement direct en gros d'huiles cosmétiques marocaines pures, rituels de hammam et fabrication en marque blanche avec documents complets d'exportation.",

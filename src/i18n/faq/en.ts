@@ -2,9 +2,9 @@ import type { FaqDictionary } from './types';
 
 export const enFaq: FaqDictionary = {
   seo: {
-    title: 'FAQ | Moroccan Beauty Products Wholesale & Private Label Supplier',
+    title: "FAQ | Moroccan Beauty Products Wholesale & Private Label",
     description:
-      "Answers to buyers' questions about Moroccan beauty products wholesale, bulk argan oil, prickly pear seed oil, private label from 50 pieces, export support, and worldwide shipping.",
+      "Answers for buyers: wholesale argan oil orders, prickly pear seed oil, MOQs from 50 pieces, export certificates, lead times and global shipping.",
     ogTitle: 'FAQ | Moroccan Organic Products Wholesale & Private Label Guide',
     ogDescription:
       'Everything you need to know about purchasing Moroccan cosmetic oils, ordering testing samples, private label manufacturing from 50 units, and global export procedures.',

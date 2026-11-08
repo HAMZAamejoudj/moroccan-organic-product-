@@ -3,9 +3,9 @@ import type { ProductDetailItem } from '../types';
 export const ghassoulClay: ProductDetailItem = {
     slug: 'ghassoul-clay',
     seo: {
-      title: 'Moroccan Ghassoul Clay Wholesale (Rhassoul) | Bulk Mineral Clay Powder',
+      title: "Moroccan Ghassoul Clay Wholesale | Pure Atlas Rhassoul",
       description:
-        'Pure Moroccan Ghassoul (Rhassoul) clay wholesale from the Atlas Mountains. Ultra-fine cosmetic powder and flakes. Bulk bags (25 kg) & private label jars.',
+        "Authentic volcanic ghassoul clay wholesale from the Atlas Mountains. Cleanses and detoxifies skin and hair. Available in flakes and fine powder.",
       ogTitle: 'Wholesale Moroccan Ghassoul Clay (Rhassoul) | Bulk Supplier',
       ogDescription:
         '100% natural Atlas mountain mineral clay for facial masks, body wraps, and hair care. Certified organic wholesale supplier in Morocco.',

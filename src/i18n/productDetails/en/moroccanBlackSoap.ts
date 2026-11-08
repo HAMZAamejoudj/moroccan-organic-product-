@@ -3,9 +3,9 @@ import type { ProductDetailItem } from '../types';
 export const moroccanBlackSoap: ProductDetailItem = {
     slug: 'moroccan-black-soap',
     seo: {
-      title: 'Moroccan Black Soap Wholesale (Savon Noir) | Bulk Hammam Supplier',
+      title: "Moroccan Black Soap Wholesale | Traditional Beldi Soap",
       description:
-        'Authentic Moroccan black soap (Savon Beldi) wholesale from Marrakech. 100% natural saponified olive oil paste. Bulk buckets (5 kg, 25 kg, 200 kg) & private label jars.',
+        "Authentic Moroccan black soap wholesale made from organic olive oil and macerated olives. Rich in vitamin E for hammam exfoliation. Bulk buckets.",
       ogTitle: 'Wholesale Moroccan Black Soap (Savon Noir Beldi)',
       ogDescription:
         'Direct producer of authentic Moroccan black soap paste for spas and cosmetic brands. Bulk and private label retail jars with worldwide shipping.',

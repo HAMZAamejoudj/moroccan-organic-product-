@@ -3,9 +3,9 @@ import type { ProductDetailItem } from '../types';
 export const moroccanBlackSoap: ProductDetailItem = {
     slug: 'moroccan-black-soap',
     seo: {
-      title: 'Marokkanische Schwarze Seife Savon Noir Großhandel | Bulk & Spas',
+      title: "Schwarze Marokkanische Seife Großhandel | Savon Beldi",
       description:
-        'Hersteller traditioneller marokkanischer schwarzer Seife (Savon Beldi) aus Olivenöl & schwarzer Olivenpaste. Bulk 5kg bis 200kg, Private Label Tiegel ab 50 Stk.',
+        "Traditionelle marokkanische schwarze Seife aus Olivenöl im B2B-Großhandel. Reich an Vitamin E für sanftes Peeling. Eimer und Bulkware.",
       ogTitle: 'Marokkanische Schwarze Seife Großhandel | Direktexport Marokko',
       ogDescription:
         'Authentische marokkanische Peeling-Seifenpaste für Hammam & Spa. Angereichert mit Eukalyptus oder Arganöl. Weltweiter Großhandelsexport.',

@@ -3,9 +3,9 @@ import type { ProductDetailItem } from '../types';
 export const arganHairSerum: ProductDetailItem = {
     slug: 'argan-hair-serum',
     seo: {
-      title: 'Sérum Capillaire à l’Huile d’Argan en Gros | Marque Blanche Maroc',
+      title: "Sérum Cheveux à l'Argan en Gros | Soin Anti-Frisottis",
       description:
-        'Sérum capillaire marocain à l’argan pur pour grossistes et marques blanches. Formule sans rinçage légère, argan, amande et jojoba. Flaconnage personnalisé dès 50 pièces.',
+        "Sérum capillaire bio à l'huile d'argan pure en gros. Protège contre la chaleur, discipline les frisottis et apporte brillance. Dès 50 pièces.",
       ogTitle: 'Sérum Capillaire Argan en Gros | Fabricant Marque Blanche Maroc',
       ogDescription:
         'Sérum protecteur thermique et anti-frisottis à l’huile d’argan du Maroc. Vrac et conditionnement personnalisé sous votre marque.',

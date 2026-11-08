@@ -3,9 +3,9 @@ import type { ProductDetailItem } from '../types';
 export const moroccanBlackSoap: ProductDetailItem = {
     slug: 'moroccan-black-soap',
     seo: {
-      title: 'Savon Noir Marocain Beldi en Gros | Fournisseur Vrac & Spas Maroc',
+      title: "Savon Noir Marocain en Gros | Savon Beldi Traditionnel",
       description:
-        'Fabricant de savon noir marocain traditionnel à l’huile d’olive et pâte d’olives noires. Vrac 5kg à 200kg, pots personnalisés spas & instituts dès 50 unités.',
+        "Véritable savon noir marocain à l'huile d'olive en gros. Riche en vitamine E pour le gommage au hammam. Fûts et seaux pour spas et marques.",
       ogTitle: 'Savon Noir Marocain Beldi en Gros | Producteur Direct Maroc',
       ogDescription:
         'Authentique pâte de savon noir marocain pour hammam et gommage corporel. Enrichi à l’huile d’argan ou eucalyptus. Vente en gros export mondial.',

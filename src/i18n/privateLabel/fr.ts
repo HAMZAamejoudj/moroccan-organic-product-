@@ -2,9 +2,9 @@ import type { PrivateLabelDictionary } from './types';
 
 export const frPrivateLabel: PrivateLabelDictionary = {
   seo: {
-    title: 'Fabricant Marque Blanche Cosmétique Maroc | Huile d’Argan dès 50 pièces',
+    title: "Fabrication Marque Blanche Cosmétique Maroc | Dès 50 pcs",
     description:
-      'Lancez votre marque de soins naturels avec un producteur marocain certifié. Marque blanche huile d’argan, figue de barbarie, sérums, savon noir, conditionnement sur mesure dès 50 unités, export mondial.',
+      "Créez votre marque de soins avec des huiles et cosmétiques bio du Maroc : formulation, sérums, mise en flacon et étiquetage dès 50 pièces.",
     ogTitle: 'Marque Blanche Cosmétique & Huile d’Argan Maroc | Dès 50 pièces',
     ogDescription:
       'Solution clé en main en marque blanche : remplissage, étiquetage personnalisé, conformité réglementaire UE et expédition internationale.',

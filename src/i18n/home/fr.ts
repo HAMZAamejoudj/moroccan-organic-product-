@@ -2,9 +2,9 @@ import type { HomeDictionary } from '../types';
 
 export const frHome: HomeDictionary = {
   seo: {
-    title: "Grossiste Produits Bio du Maroc | Huile d'Argan & Cosmétiques Naturels",
+    title: "Grossiste Produits Bio du Maroc | Huile d'Argan & Soins",
     description:
-      "Producteur marocain de cosmétiques bio depuis 2012 : huile d'argan en vrac, huile de pépins de figue de barbarie, savon noir, rhassoul et marque blanche dès 50 pièces.",
+      "Producteur marocain de cosmétiques bio : huile d'argan en vrac, pépins de figue de barbarie, savon noir et marque blanche dès 50 pièces.",
     ogTitle: "Grossiste Produits Bio du Maroc | Huiles Naturelles & Soins Cosmétiques",
     ogDescription:
       "Huile d'argan en vrac, pépins de figue de barbarie et fabrication cosmétique en marque blanche depuis Marrakech. Échantillons et expédition internationale.",

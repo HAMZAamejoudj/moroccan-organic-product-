@@ -2,9 +2,9 @@ import type { HomeDictionary } from '../types';
 
 export const deHome: HomeDictionary = {
   seo: {
-    title: 'Großhandel Marokkanische Bio-Produkte | Arganöl & Naturkosmetik',
+    title: "Marokkanische Bio-Produkte | Arganöl Großhandel & Pflege",
     description:
-      'Marokkanischer Hersteller von Bio-Kosmetik seit 2012: Arganöl in Großgebinden, Kaktusfeigenkernöl, Schwarze Seife, Ghassoul-Tonerde und Private Label ab 50 Stück.',
+      "Marokkanischer Bio-Hersteller: Arganöl in Großgebinden, Kaktusfeigenkernöl, schwarze Seife und Private Label Kosmetik ab 50 Stück.",
     ogTitle: 'Großhandel Marokkanische Bio-Produkte | Reine Öle & Naturkosmetik',
     ogDescription:
       'Reines Arganöl im Großhandel, Kaktusfeigenkernöl und Private-Label-Kosmetikherstellung direkt aus Marrakesch. Musterversand und weltweite Ausfuhr.',

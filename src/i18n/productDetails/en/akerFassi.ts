@@ -3,9 +3,9 @@ import type { ProductDetailItem } from '../types';
 export const akerFassi: ProductDetailItem = {
     slug: 'aker-fassi',
     seo: {
-      title: 'Authentic Aker Fassi Wholesale | Pure Moroccan Poppy Powder Supplier',
+      title: "Authentic Aker Fassi Wholesale | Pure Poppy Powder",
       description:
-        '100% authentic Moroccan Aker Fassi wholesale from Fez. Hand-harvested poppy petals and pomegranate bark powder. Natural lip stain and radiance booster. Bulk & retail pots.',
+        "Pure Moroccan Aker Fassi wholesale from Fez. Hand-harvested poppy petals and pomegranate bark powder for natural cosmetics. Bulk & private label.",
       ogTitle: 'Wholesale Authentic Aker Fassi | Moroccan Poppy Powder',
       ogDescription:
         'Traditional Moroccan crimson cosmetic pigment made from poppy petals and pomegranate. Bulk and terracotta pots from Fez producer.',

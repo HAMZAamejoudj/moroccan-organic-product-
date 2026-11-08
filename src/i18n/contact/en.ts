@@ -2,9 +2,9 @@ import type { ContactDictionary } from './types';
 
 export const enContact: ContactDictionary = {
   seo: {
-    title: 'Direct Wholesale & Bulk Quote Inquiries | Moroccan Organic Products',
+    title: "Contact Us | Wholesale Quote Inquiries Marrakech Morocco",
     description:
-      'Contact our facility in Marrakech, Morocco for pure cold-pressed argan oil, prickly pear seed oil, and private label cosmetics. Direct reply within 24 business hours.',
+      "Contact our facility in Marrakech for cold-pressed argan oil, prickly pear seed oil, and private label quotes. Guaranteed reply within 24h.",
     ogTitle: 'Contact Us | Moroccan Organic Products - Marrakech',
     ogDescription:
       'Direct producer inquiries for bulk cosmetic oils, private label bottling, and international export from Marrakech, Morocco.',

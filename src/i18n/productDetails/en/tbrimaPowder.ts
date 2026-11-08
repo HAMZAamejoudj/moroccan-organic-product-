@@ -3,9 +3,9 @@ import type { ProductDetailItem } from '../types';
 export const tbrimaPowder: ProductDetailItem = {
     slug: 'tbrima-powder',
     seo: {
-      title: 'Moroccan Tbrima Herbal Body Mask Wholesale | 14-Herb Royal Hammam Blend',
+      title: "Moroccan Tbrima Powder Wholesale | Herbal Hammam Blend",
       description:
-        'Authentic Moroccan Tbrima herbal powder wholesale from Marrakech. 14 medicinal herbs blend for royal hammam body masks and deep peeling. Bulk & retail pouches.',
+        "Traditional Moroccan bridal tbrima wholesale with 14 wild herbs, rosemary, and rose petals. Purifies skin texture for luxury hammam rituals.",
       ogTitle: 'Wholesale Moroccan Tbrima Herbal Body Mask | Royal Hammam Blend',
       ogDescription:
         'Traditional Moroccan 14-herb body wrap powder for hammams and wellness spas. Cleanses, clarifies, and softens skin. Bulk wholesale supplier.',

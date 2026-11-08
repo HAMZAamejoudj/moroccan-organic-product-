@@ -3,9 +3,9 @@ import type { ProductDetailItem } from '../types';
 export const arganBeardOil: ProductDetailItem = {
     slug: 'argan-beard-oil',
     seo: {
-      title: 'Argan Bartöl Großhandel | Private Label Männerpflege Marokko',
+      title: "Argan-Bartöl Großhandel | Private Label Bartpflege",
       description:
-        'Großhandelslieferant für marokkanisches Argan Bartöl. Premium-Formel aus Arganöl, Schwarzkümmelöl und Atlas-Zirbe/Zedernholz. Bändigt das Barthaar, Private Label ab 50 Stk.',
+        "Bio-Argan-Bartöl mit Jojoba und Zedernholz im Großhandel. Pflegt Barthaare und spendet Feuchtigkeit. Abfüllung mit Ihrem Label ab 50 Stück.",
       ogTitle: 'Argan Bartöl Großhandel | Private Label Hersteller Marokko',
       ogDescription:
         'Hochwertiges natürliches Bartöl direkt aus Marokko. Nährt Barthaar und Gesichtshaut, verhindert Juckreiz, maskuliner Holzduft.',

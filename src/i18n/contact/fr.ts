@@ -2,9 +2,9 @@ import type { ContactDictionary } from './types';
 
 export const frContact: ContactDictionary = {
   seo: {
-    title: 'Contact Direct & Demande de Devis Grossiste | Moroccan Organic Products',
+    title: "Contactez-Nous | Devis Grossiste & Marque Blanche Maroc",
     description:
-      'Contactez notre atelier à Marrakech pour vos approvisionnements en huile d’argan pure, figue de barbarie et fabrication marque blanche. Réponse garantie sous 24h.',
+      "Contactez notre atelier à Marrakech pour vos besoins en huile d'argan pure, figue de barbarie et marque blanche. Réponse sous 24h.",
     ogTitle: 'Contactez-Nous | Moroccan Organic Products — Marrakech',
     ogDescription:
       'Liaison directe avec notre unité de production à Marrakech : huiles végétales en vrac, flaconnage sur mesure et expéditions internationales.',

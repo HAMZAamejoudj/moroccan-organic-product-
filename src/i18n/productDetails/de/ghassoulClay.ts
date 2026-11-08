@@ -3,9 +3,9 @@ import type { ProductDetailItem } from '../types';
 export const ghassoulClay: ProductDetailItem = {
     slug: 'ghassoul-clay',
     seo: {
-      title: 'Marokkanische Ghassoul Tonerde Großhandel | Rhassoul Brocken & Pulver',
+      title: "Marokkanische Ghassoul-Tonerde Großhandel | Rhassoul",
       description:
-        'Großhändler für originale marokkanische Ghassoul-Tonerde aus dem Moulouya-Tal. Sonnengereifte Brocken oder mikronisiertes Pulver. Bulk und Tiegel für Spas.',
+        "Echte vulkanische Rhassoul-Tonerde aus dem Atlasgebirge im Großhandel. Klärt Haut und Haare sanft. Erhältlich als Schuppen und Feinpulver.",
       ogTitle: 'Ghassoul (Rhassoul) Tonerde Großhandel | Direktimport Marokko',
       ogDescription:
         'Einzigartige mineralische Lava-Tonerde für Körper, Gesicht und Haar. Hohe Saugkraft und reich an Silizium & Magnesium. Weltweiter B2B-Export.',

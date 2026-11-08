@@ -2,9 +2,9 @@ import type { AboutUsDictionary } from './types';
 
 export const enAboutUs: AboutUsDictionary = {
   seo: {
-    title: 'About Us | Moroccan Beauty Products & Argan Oil Supplier Since 2012',
+    title: "About Us | Moroccan Organic Beauty Exporter Since 2012",
     description:
-      'Learn about Moroccan Organic Products, trusted Moroccan beauty products manufacturer and supplier offering pure argan oil, prickly pear seed oil, and worldwide export since 2012.',
+      "Discover Moroccan Organic Products: trusted Marrakech producer and B2B exporter of cold-pressed argan oil, prickly pear oil, and hammam care.",
     ogTitle: 'About Moroccan Organic Products | Ethical Beauty Producer in Morocco',
     ogDescription:
       'Direct Moroccan producer of certified cosmetic argan oil, prickly pear seed oil, and traditional hammam essentials. Sourcing transparency and B2B global export.',

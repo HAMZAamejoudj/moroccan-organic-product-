@@ -2,9 +2,9 @@ import type { AboutUsDictionary } from './types';
 
 export const deAboutUs: AboutUsDictionary = {
   seo: {
-    title: 'Über Uns | Marokkanischer Arganöl-Hersteller & Lieferant Seit 2012',
+    title: "Über Uns | Marokkanischer Arganöl-Hersteller Seit 2012",
     description:
-      'Erfahren Sie mehr über Moroccan Organic Products: Zertifizierter marokkanischer Produzent und B2B-Exporteur für reines Arganöl, Kaktusfeigenkernöl und Kosmetikrohstoffe.',
+      "Erfahren Sie mehr über Moroccan Organic Products: Zertifizierter Produzent und B2B-Exporteur für reines Arganöl und Bio-Kosmetikrohstoffe.",
     ogTitle: 'Über Moroccan Organic Products | Ethischer Kosmetikhersteller in Marokko',
     ogDescription:
       'Eigene Kaltpressung in Marrakesch, direkte Kooperation mit Berber-Frauenkooperativen im Souss-Gebiet, chargengenaue Laboranalysen und weltweiter B2B-Export.',

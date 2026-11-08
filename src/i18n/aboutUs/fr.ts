@@ -2,9 +2,9 @@ import type { AboutUsDictionary } from './types';
 
 export const frAboutUs: AboutUsDictionary = {
   seo: {
-    title: 'À Propos | Fabricant & Producteur d’Huile d’Argan au Maroc Depuis 2012',
+    title: "À Propos | Producteur d'Huile d'Argan au Maroc Depuis 2012",
     description:
-      'Découvrez Moroccan Organic Products, producteur et exportateur marocain d’huile d’argan pure, huile de pépins de figue de barbarie et soins traditionnels certifiés.',
+      "Découvrez Moroccan Organic Products : producteur et exportateur à Marrakech d'huile d'argan pressée à froid et de soins bio certifiés.",
     ogTitle: 'À Propos de Moroccan Organic Products | Producteur Éthique au Maroc',
     ogDescription:
       'Production directe à Marrakech, traçabilité des coopératives de l’Atlas, pression à froid certifiée et approvisionnement B2B pour marques et laboratoires.',

@@ -2,9 +2,9 @@ import type { ProductsCatalogDictionary, ArganOilDictionary, PricklyPearDictiona
 
 export const deProductsCatalog: ProductsCatalogDictionary = {
   seo: {
-    title: 'Marokkanische Kosmetiköle & Schönheitsprodukte Großhandel | Arganöl, Kaktusfeigenkernöl & Hammam',
+    title: "Marokkanische Naturkosmetik & Öle | Großhandelskatalog",
     description:
-      'Großhandel für marokkanische Kosmetik: Reines Arganöl in Bulk, Kaktusfeigenkernöl, schwarze Seife, Rhassoul-Tonerde, blaues Nila-Pulver und Private Label Seren.',
+      "Katalog für marokkanische Bio-Kosmetik: Arganöl in Großgebinden, Kaktusfeigenkernöl, schwarze Seife, Ghassoul und Private Label Produkte.",
     ogTitle: 'Marokkanische Kosmetiköle & Schönheitsprodukte Großhandel',
     ogDescription:
       'Reines Arganöl im Fass, Kaktusfeigenkernöl und authentische marokkanische Hammam-Pflegeprodukte für Kosmetiklabore, Marken und Händler.',

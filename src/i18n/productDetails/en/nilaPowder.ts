@@ -3,9 +3,9 @@ import type { ProductDetailItem } from '../types';
 export const nilaPowder: ProductDetailItem = {
     slug: 'nila-powder',
     seo: {
-      title: 'Moroccan Blue Nila Powder Wholesale | Pure Saharan Cosmetic Pigment',
+      title: "Authentic Blue Nila Powder Wholesale | Sahara Mineral",
       description:
-        'Authentic Moroccan blue Nila powder wholesale from the Sahara. 100% natural brightening cosmetic powder for hyperpigmentation, body masks and hammam. Bulk & jars.',
+        "100% natural blue nila powder wholesale from the Moroccan Sahara. Brightens skin tone, reduces pigmentation and dark spots. Bulk kilos & jars.",
       ogTitle: 'Wholesale Moroccan Blue Nila Powder | Saharan Brightening Secret',
       ogDescription:
         'Pure Moroccan blue Nila powder for skin brightening, evening tone, and traditional hammam body treatments. Bulk wholesale supplier in Morocco.',

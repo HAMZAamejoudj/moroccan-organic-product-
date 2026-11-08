@@ -3,9 +3,9 @@ import type { ProductDetailItem } from '../types';
 export const nilaPowder: ProductDetailItem = {
     slug: 'nila-powder',
     seo: {
-      title: 'Poudre de Nila Bleu Marocain en Gros | Éclaircissant Naturel Sahara',
+      title: "Poudre de Nila Bleue du Maroc en Gros | Minéral Saharien",
       description:
-        'Vente en gros de poudre de Nila bleu pur du Sahara marocain. Actif naturel anti-taches, unifiant et éclaircissant pour le teint et le corps. Vrac et pots dès 50 pcs.',
+        "Poudre de nila bleue 100% naturelle du Sahara marocain en gros. Éclaircit le teint et estompe les taches brunes. Vrac et pots cosmétiques.",
       ogTitle: 'Poudre de Nila Bleu Pur en Gros | Fournisseur Direct Maroc',
       ogDescription:
         'Poudre minérale et végétale de Nila bleu authentique du Sahara. Réduit les taches pigmentaires, unifie le teint, fournisseur B2B export mondial.',

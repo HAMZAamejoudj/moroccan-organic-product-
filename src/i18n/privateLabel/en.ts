@@ -2,9 +2,9 @@ import type { PrivateLabelDictionary } from './types';
 
 export const enPrivateLabel: PrivateLabelDictionary = {
   seo: {
-    title: 'Private Label Moroccan Beauty Products & Argan Oil | From 50 Pieces',
+    title: "Private Label Cosmetics Morocco | Custom Beauty Brands",
     description:
-      'Launch your cosmetic brand with a trusted Moroccan producer: private label argan oil, face oils, hair serums, beard oils, custom packaging, low MOQ from 50 pieces, worldwide export.',
+      "Launch your cosmetic brand with certified Moroccan oils and skincare: custom formulation, filling, and packaging starting from 50 units.",
     ogTitle: 'Private Label Moroccan Beauty Products & Argan Oil | From 50 Pieces',
     ogDescription:
       'Turnkey private label cosmetic oils and Moroccan hammam specialties. Custom bottling, label printing, regulatory compliance support and global shipping.',

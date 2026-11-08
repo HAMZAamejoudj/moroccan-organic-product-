@@ -2,9 +2,9 @@ import type { FaqDictionary } from './types';
 
 export const frFaq: FaqDictionary = {
   seo: {
-    title: 'Foire Aux Questions (FAQ) | Grossiste & Marque Blanche Cosmétique Maroc',
+    title: "FAQ | Grossiste Huile d’Argan & Marque Blanche Maroc",
     description:
-      'Réponses détaillées à vos questions sur l’achat d’huile d’argan en gros, la figue de barbarie, le façonnage en marque blanche dès 50 pièces et l’export mondial.',
+      "Réponses aux acheteurs : commande d'huile d'argan en gros, figue de barbarie, fabrication dès 50 pièces, certificats et expédition mondiale.",
     ogTitle: 'FAQ | Tout Savoir sur Nos Huiles & Services Marque Blanche au Maroc',
     ogDescription:
       'Questions fréquentes sur les commandes en gros, les échantillons, les normes réglementaires européennes (DIP/CPNP), les délais et la livraison internationale.',

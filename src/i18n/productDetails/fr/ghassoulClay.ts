@@ -3,9 +3,9 @@ import type { ProductDetailItem } from '../types';
 export const ghassoulClay: ProductDetailItem = {
     slug: 'ghassoul-clay',
     seo: {
-      title: 'Argile Ghassoul du Maroc en Gros | Rhassoul en Plaquettes & Poudre',
+      title: "Rhassoul du Maroc en Gros | Argile Pure de l'Atlas",
       description:
-        'Fournisseur en gros d’argile Ghassoul marocaine authentique de la vallée de Moulouya. Plaquettes séchées au soleil ou poudre micronisée. Vrac et pots 250g.',
+        "Véritable rhassoul volcanique de l'Atlas en gros. Purifie et détoxifie la peau et le cuir chevelu. Disponible en plaquettes et poudre fine.",
       ogTitle: 'Argile Ghassoul Marocain en Gros | Producteur Certifié',
       ogDescription:
         'Rhassoul minéral naturel pour soins corps et cheveux. Pouvoir absorbant et reminéralisant exceptionnel. Export direct carrières du Maroc.',

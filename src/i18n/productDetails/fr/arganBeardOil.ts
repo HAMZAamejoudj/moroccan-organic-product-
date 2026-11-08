@@ -3,9 +3,9 @@ import type { ProductDetailItem } from '../types';
 export const arganBeardOil: ProductDetailItem = {
     slug: 'argan-beard-oil',
     seo: {
-      title: 'Huile à Barbe à l’Argan en Gros | Marque Blanche Grooming Homme',
+      title: "Huile à Barbe à l'Argan en Gros | Marque Blanche Maroc",
       description:
-        'Fournisseur en gros d’huile à barbe marocaine à l’argan bio. Formule argan, nigelle et bois de cèdre de l’Atlas. Adoucit le poil, hydrate la peau, dès 50 pièces.',
+        "Huile à barbe bio à l'huile d'argan et cèdre de l'Atlas en gros. Nourrit la barbe et adoucit la peau. Flacons personnalisés dès 50 pièces.",
       ogTitle: 'Huile à Barbe Argan en Gros | Fabricant Marocain Marque Blanche',
       ogDescription:
         'Soin pour barbe naturel d’exception fabriqué au Maroc. Nourrit en profondeur, apaise les démangeaisons, disponible en vrac et flaconnage personnalisé.',

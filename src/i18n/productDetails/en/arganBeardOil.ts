@@ -3,9 +3,9 @@ import type { ProductDetailItem } from '../types';
 export const arganBeardOil: ProductDetailItem = {
     slug: 'argan-beard-oil',
     seo: {
-      title: 'Wholesale Argan Beard Oil | Moroccan Private Label Men Grooming',
+      title: "Argan Beard Oil Wholesale | Moroccan Private Label Care",
       description:
-        'Wholesale Moroccan argan beard oil direct from producer. Pure argan, black seed and Atlas cedarwood formula. Tames coarse facial hair, hydrates skin, private label from 50 pcs.',
+        "Wholesale organic argan beard oil enriched with jojoba and cedarwood. Softens facial hair and nourishes skin. Custom bottling from 50 units.",
       ogTitle: 'Wholesale Argan Beard Oil | Private Label Supplier',
       ogDescription:
         'Premium natural beard oil made in Morocco. Nourishes facial hair, prevents beard itch, bulk and custom private label packaging.',

@@ -3,9 +3,9 @@ import type { ProductDetailItem } from '../types';
 export const akerFassi: ProductDetailItem = {
     slug: 'aker-fassi',
     seo: {
-      title: 'Aker Fassi Authentique en Gros | Poudre de Coquelicot & Grenade Maroc',
+      title: "Aker Fassi Authentique en Gros | Poudre de Coquelicot",
       description:
-        'Fournisseur d’Aker Fassi 100% pur de Fès. Pigment naturel rouge de pétales de coquelicot séchés et écorce de grenade. Teinte lèvres et joues, vrac et pots dès 50 pcs.',
+        "Véritable Aker Fassi de Fès en gros. Pétales de coquelicot séchés et écorce de grenade pour soins et maquillage naturel. Vrac et marque blanche.",
       ogTitle: 'Aker Fassi Pur en Gros | Poudre & Coupelles en Terre Cuite Maroc',
       ogDescription:
         'Véritable Aker Fassi marocain pour maquillage naturel et soins de teint. Disponible en poudre pure au kilo et en coupelles artisanales personnalisées.',

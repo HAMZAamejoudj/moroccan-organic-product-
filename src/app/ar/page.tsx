@@ -9,11 +9,11 @@ export const metadata: Metadata = {
   alternates: {
     canonical: `${SITE_URL}/ar`,
     languages: {
-      en: `${SITE_URL}/`,
+      en: `${SITE_URL}`,
       fr: `${SITE_URL}/fr`,
       ar: `${SITE_URL}/ar`,
       de: `${SITE_URL}/de`,
-      'x-default': `${SITE_URL}/`,
+      'x-default': `${SITE_URL}`,
     },
   },
   openGraph: {

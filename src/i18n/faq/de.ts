@@ -2,9 +2,9 @@ import type { FaqDictionary } from './types';
 
 export const deFaq: FaqDictionary = {
   seo: {
-    title: 'Häufig Gestellte Fragen (FAQ) | Großhandel & Private Label Marokko',
+    title: "FAQ | Großhandel & Private Label Marokko Häufige Fragen",
     description:
-      'Antworten auf Einkäuferfragen zu marokkanischem Arganöl im Großhandel, Kaktusfeigenkernöl, Private-Label-Abfüllung ab 50 Stück und weltweitem Export.',
+      "Antworten für Einkäufer: Großbestellungen von Arganöl, Kaktusfeigenkernöl, Mindestmengen ab 50 Stück, Zertifikate und weltweiter Versand.",
     ogTitle: 'FAQ | Alles über B2B-Großhandel & Kosmetiköle aus Marokko',
     ogDescription:
       'Häufige Fragen zu Laboranalysen (COA), Mindestbestellmengen, Musterbestellungen, EU-Zollbefreiung mit EUR.1 und internationalen Lieferzeiten.',

@@ -2,9 +2,9 @@ import type { WholesaleDictionary } from './types';
 
 export const enWholesale: WholesaleDictionary = {
   seo: {
-    title: 'Moroccan Beauty Products & Argan Oil Wholesale | Bulk Supplier Morocco',
+    title: "Wholesale Moroccan Beauty Products | Bulk Argan Oil",
     description:
-      'Buy authentic Moroccan organic beauty products & pure oils wholesale from a Marrakech producer: bulk argan oil, prickly pear seed oil, black soap, ghassoul clay, worldwide shipping.',
+      "Buy certified organic Moroccan beauty products and pure oils in bulk from Marrakech: argan oil, prickly pear oil, black soap, worldwide export.",
     ogTitle: 'Moroccan Beauty Products & Argan Oil Wholesale | Bulk Supplier',
     ogDescription:
       'Direct producer wholesale supply: bulk argan oil, prickly pear seed oil, Moroccan black soap and private label beauty products with worldwide export documents.',

@@ -3,9 +3,9 @@ import type { ProductDetailItem } from '../types';
 export const tbrimaPowder: ProductDetailItem = {
     slug: 'tbrima-powder',
     seo: {
-      title: 'Tbrima Marocaine aux 14 Plantes en Gros | Poudre de Hammam Traditionnelle',
+      title: "Tbrima Marocaine en Gros | Mélange d'Herbes de Hammam",
       description:
-        'Fournisseur en gros de Tbrima marocaine authentique aux 14 herbes royales. Masque corporel raffermissant et éclaircissant pour hammam et spa. Vrac et pots dès 50 pcs.',
+        "Tbrima traditionnelle aux 14 plantes du Maroc en gros : romarin, lavande et pétales de rose pour gommage corporel. Vrac et marque blanche.",
       ogTitle: 'Tbrima Marocaine en Gros | Mélange Détox Hammam 14 Herbes',
       ogDescription:
         'Véritable mélange traditionnel Tbrima pour soins corporels et rituels de mariée marocains. Actifs purifiants et raffermissants, export B2B direct.',

@@ -2,9 +2,9 @@ import type { WholesaleDictionary } from './types';
 
 export const deWholesale: WholesaleDictionary = {
   seo: {
-    title: 'Marokkanische Kosmetik & Arganöl Großhandel | Bio-Hersteller Marokko',
+    title: "Marokkanische Kosmetik & Arganöl Großhandel | Bulk Export",
     description:
-      'Authentische marokkanische Kosmetikprodukte & Naturöle im Großhandel direkt vom Hersteller: Arganöl in Bulk, Kaktusfeigenkernöl, schwarze Seife, weltweiter Export.',
+      "Authentische marokkanische Kosmetik und Bio-Öle im Großhandel direkt vom Hersteller: Arganöl, Kaktusfeigenkernöl und weltweiter Export.",
     ogTitle: 'Marokkanische Kosmetik & Arganöl Großhandel | Direkterzeuger',
     ogDescription:
       'Direktbezug von kosmetischen Bio-Ölen, traditioneller marokkanischer Seife und Private-Label-Kosmetik mit vollständigen Zolldokumenten und Chargen-COA.',

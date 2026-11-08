@@ -3,9 +3,9 @@ import type { ProductDetailItem } from '../types';
 export const arganHairSerum: ProductDetailItem = {
     slug: 'argan-hair-serum',
     seo: {
-      title: 'Argan Haarserum Großhandel | Private Label & Bulk Lieferant Marokko',
+      title: "Argan-Haarserum Großhandel | Marokkanische Haarpflege",
       description:
-        'Marokkanisches Argan Haarserum für Großhändler & Eigenmarken. Leichte Leave-in-Formel mit Argan-, Mandel- und Jojobaöl. Hitzeschutz, Anti-Frizz, Private Label ab 50 Stück.',
+        "Reines Argan-Haarserum im B2B-Großhandel. Schützt vor Hitze, bändigt Frizz und verleiht Glanz. Eigene Kosmetikmarke ab 50 Stück.",
       ogTitle: 'Argan Haarserum Großhandel | Private Label Marokko',
       ogDescription:
         'Erstklassiges Argan Haarserum aus Marokko. Seidiger Glanz, Hitzeschutz, Anti-Frizz. Fassware und individuelle Markenabfüllung.',

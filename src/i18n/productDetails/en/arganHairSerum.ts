@@ -3,9 +3,9 @@ import type { ProductDetailItem } from '../types';
 export const arganHairSerum: ProductDetailItem = {
     slug: 'argan-hair-serum',
     seo: {
-      title: 'Wholesale Argan Hair Serum | Private Label & Bulk Supplier Morocco',
+      title: "Argan Hair Serum Wholesale | Moroccan Anti-Frizz Care",
       description:
-        'Premium Moroccan argan hair serum for wholesale and private label. Lightweight leave-in formula with pure argan, almond and jojoba oils. Custom bottling from 50 pieces.',
+        "Pure cold-pressed Moroccan argan hair serum wholesale. Restores shine, tames frizz, and protects from heat. Private label bottling from 50 units.",
       ogTitle: 'Wholesale Argan Hair Serum | Private Label Morocco',
       ogDescription:
         'Custom private label and bulk Moroccan argan hair serum. Tames frizz, restores shine, heat-protectant botanical formula.',

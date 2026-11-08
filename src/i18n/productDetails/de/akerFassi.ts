@@ -3,9 +3,9 @@ import type { ProductDetailItem } from '../types';
 export const akerFassi: ProductDetailItem = {
     slug: 'aker-fassi',
     seo: {
-      title: 'Original Aker Fassi Pulver Großhandel | Marokkanisches Mohnblüten-Pigment',
+      title: "Authentisches Aker Fassi Großhandel | Mohnblütenpulver",
       description:
-        'B2B-Lieferant für echtes Aker Fassi aus Fès. 100% pflanzliches rotes Farbpigment aus Mohnblüten und Granatapfelschalen. Pulver & Tontöpfchen ab 50 Stk.',
+        "Reines marokkanisches Aker Fassi im Großhandel aus Fès. Wilde Mohnblüten und Granatapfelrinde für Naturkosmetik. Bulk & Private Label.",
       ogTitle: 'Echtes Aker Fassi Pulver Großhandel | Direktbezug Marokko',
       ogDescription:
         'Traditionelles marokkanisches Schönheitsgeheimnis für Wangen, Lippen & strahlenden Teint. 100% vegan, ohne synthetische Farbstoffe.',
