@@ -48,26 +48,17 @@ const nextConfig: NextConfig = {
   poweredByHeader: false,
   transpilePackages: ['lucide-react'],
   async redirects() {
-    const wwwHost = [{ type: "host" as const, value: WWW_HOST }];
-    const rule = (source: string, destination: string, onWww: boolean) =>
-      onWww
-        ? { source, has: wwwHost, destination: `${SITE}${destination}`, statusCode: 301 }
-        : { source, destination, statusCode: 301 };
-
     return [
-      // www: one hop straight to the final apex URL
-      ...redirectMap.map(([from, to]) => rule(from, to, true)),
-      ...fallbackMap.map(([from, to]) => rule(from, to, true)),
-      // www: every other path keeps its path on the apex host
-      {
-        source: "/:path*",
-        has: wwwHost,
-        destination: `${SITE}/:path*`,
+      ...redirectMap.map(([from, to]) => ({
+        source: from,
+        destination: to,
         statusCode: 301,
-      },
-      // apex
-      ...redirectMap.map(([from, to]) => rule(from, to, false)),
-      ...fallbackMap.map(([from, to]) => rule(from, to, false)),
+      })),
+      ...fallbackMap.map(([from, to]) => ({
+        source: from,
+        destination: to,
+        statusCode: 301,
+      })),
     ];
   },
 };
