@@ -1,0 +1,5 @@
+/*
+  All styles from chrome.css have been merged into globals.css
+  This file imports globals.css to maintain backwards compatibility.
+*/
+@import "./globals.css";
