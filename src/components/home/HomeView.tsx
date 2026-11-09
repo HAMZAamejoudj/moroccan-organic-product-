@@ -29,7 +29,17 @@ const PRIVATE_LABEL_PHOTO = '/images/home-private-label.jpg';
 export default function HomeView({ locale }: HomeViewProps) {
   const dict = getHomeDictionary(locale);
   const locInfo = getLocaleInfo(locale);
-  const whatsapp = whatsappHref(facts.whatsapp);
+  const waDigits = facts.whatsapp ? facts.whatsapp.replace(/\D/g, '') : '212641517831';
+  const waMessage = encodeURIComponent(
+    locale === 'ar'
+      ? 'السلام عليكم، أود الاستفسار عن منتجاتكم المغربية الطبيعية.'
+      : locale === 'fr'
+      ? 'Bonjour, je souhaite me renseigner sur vos produits bio marocains.'
+      : locale === 'de'
+      ? 'Hallo, ich interessiere mich für Ihre marokkanischen Bio-Produkte.'
+      : 'Hello, I would like to inquire about your Moroccan organic products.'
+  );
+  const whatsapp = `https://wa.me/${waDigits}?text=${waMessage}`;
   const showHeroPhoto = slotVisible(HERO_PHOTO);
   const showPrivateLabelPhoto = slotVisible(PRIVATE_LABEL_PHOTO);
 

@@ -2,12 +2,12 @@ import type { HomeDictionary } from '../types';
 
 export const enHome: HomeDictionary = {
   seo: {
-    title: "Moroccan Organic Products | Wholesale Argan & Skincare",
+    title: 'Wholesale Moroccan Organic Products | Natural Oils & Skincare',
     description:
-      "Moroccan producer of organic beauty products: bulk argan oil, prickly pear seed oil, black soap, and private label cosmetics from 50 pieces.",
+      'Explore premium Moroccan organic products including argan oil, black soap, rose water, ghassoul clay and skincare from authentic Moroccan farms.',
     ogTitle: 'Wholesale Moroccan Organic Products | Natural Oils & Skincare',
     ogDescription:
-      'Bulk argan oil, prickly pear seed oil and private label cosmetics from a Moroccan manufacturer. Samples, export shipping and private label from 50 pieces.',
+      'Explore premium Moroccan organic products including argan oil, black soap, rose water, ghassoul clay and skincare from authentic Moroccan farms.',
   },
   hero: {
     eyebrow: 'Moroccan manufacturer · Worldwide shipping',
