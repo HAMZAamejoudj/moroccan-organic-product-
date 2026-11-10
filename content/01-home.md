@@ -1,5 +1,5 @@
 @URL: /
-@SEO title: Argan Oil Wholesale Supplier in Morocco | Since 2012
+@SEO title: Wholesale Moroccan Beauty Products | Natural oils & skincare
 @Meta description: Discover premium Moroccan beauty products, including argan oil, prickly pear seed oil, Nila and black soap. Wholesale, private label and worldwide export solutions for brands and distributors.
 @H1: Wholesale Argan Oil, Straight From a Moroccan Manufacturer
 @Primary keyword: argan oil wholesale supplier Morocco

@@ -2,10 +2,10 @@ import type { HomeDictionary } from '../types';
 
 export const enHome: HomeDictionary = {
   seo: {
-    title: 'Wholesale Moroccan Organic Products | Natural Oils & Skincare',
+    title: 'Wholesale Moroccan Beauty Products | Natural oils & skincare',
     description:
       'Discover premium Moroccan beauty products, including argan oil, prickly pear seed oil, Nila and black soap. Wholesale, private label and worldwide export solutions for brands and distributors.',
-    ogTitle: 'Wholesale Moroccan Organic Products | Natural Oils & Skincare',
+    ogTitle: 'Wholesale Moroccan Beauty Products | Natural oils & skincare',
     ogDescription:
       'Discover premium Moroccan beauty products, including argan oil, prickly pear seed oil, Nila and black soap. Wholesale, private label and worldwide export solutions for brands and distributors.',
   },
