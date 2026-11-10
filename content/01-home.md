@@ -1,6 +1,6 @@
 @URL: /
 @SEO title: Argan Oil Wholesale Supplier in Morocco | Since 2012
-@Meta description: Moroccan producer of argan oil and prickly pear seed oil since 2012. Bulk drums and jerrycans, and private label face oils, hair serums and beard oils from 50 pieces.
+@Meta description: Discover premium Moroccan beauty products, including argan oil, prickly pear seed oil, Nila and black soap. Wholesale, private label and worldwide export solutions for brands and distributors.
 @H1: Wholesale Argan Oil, Straight From a Moroccan Manufacturer
 @Primary keyword: argan oil wholesale supplier Morocco
 @Secondary keywords: bulk argan oil, prickly pear seed oil wholesale, private label argan oil, moroccan cosmetic oils supplier, argan oil manufacturer Morocco

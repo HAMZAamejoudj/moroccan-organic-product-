@@ -4,10 +4,10 @@ export const enHome: HomeDictionary = {
   seo: {
     title: 'Wholesale Moroccan Organic Products | Natural Oils & Skincare',
     description:
-      'Explore premium Moroccan organic products including argan oil, black soap, rose water, ghassoul clay and skincare from authentic Moroccan farms.',
+      'Discover premium Moroccan beauty products, including argan oil, prickly pear seed oil, Nila and black soap. Wholesale, private label and worldwide export solutions for brands and distributors.',
     ogTitle: 'Wholesale Moroccan Organic Products | Natural Oils & Skincare',
     ogDescription:
-      'Explore premium Moroccan organic products including argan oil, black soap, rose water, ghassoul clay and skincare from authentic Moroccan farms.',
+      'Discover premium Moroccan beauty products, including argan oil, prickly pear seed oil, Nila and black soap. Wholesale, private label and worldwide export solutions for brands and distributors.',
   },
   hero: {
     eyebrow: 'Moroccan manufacturer · Worldwide shipping',
